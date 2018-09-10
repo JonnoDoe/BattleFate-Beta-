@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Joanna",
+    "title": "Disturber Of Rest",
+    "mainParameter": "agility",
+    "class": "Barbarian",
+    "level": 1,
+    "strength": 3,
+    "agility": 5,
+    "intelligence": 2,
+    "stamina": 5,
+    "defense": 2,
+    "imagePathLH": "img/barbarian.png",
+    "imagePathRH": "img/barbarian-enemy.png",
+    "classBonus": {
+      "HPRestore": 0,
+      "MPRestore": 0,
+      "PDIncrease": 30,
+      "MDIncrease": 0,
+      "PDReduction": 10,
+      "MDReduction": 10
+    },
+    "firstSkill": {
+      "name": "Brutal Blow",
+      "skillNumber": 1,
+      "manaCost": 15,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 150,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Overflowing Rage",
+      "skillNumber": 2,
+      "manaCost": 20,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 20,
+        "duration": 3
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  },
+  {
+    "name": "Earl",
+    "title": "Breath Of Death",
+    "mainParameter": "strength",
+    "class": "Death Knight",
+    "level": 1,
+    "strength": 3,
+    "agility": 1,
+    "intelligence": 2,
+    "stamina": 6,
+    "defense": 3,
+    "imagePathLH": "img/deathKnight.png",
+    "imagePathRH": "img/deathKnight-enemy.png",
+    "classBonus": {
+      "HPRestore": 0,
+      "MPRestore": 0,
+      "PDIncrease": 0,
+      "MDIncrease": 0,
+      "PDReduction": 30,
+      "MDReduction": 30
+    },
+    "firstSkill": {
+      "name": "Kiss Of Death",
+      "skillNumber": 1,
+      "manaCost": 15,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 130,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Armor Of Darkness",
+      "skillNumber": 2,
+      "manaCost": 25,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 20,
+        "duration": 2
+      },
+      "MDReduction": {
+        "value": 20,
+        "duration": 2
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  },
+  {
+    "name": "Holly",
+    "title": "Lady Of The Elements",
+    "mainParameter": "intelligence",
+    "class": "Wizard",
+    "level": 1,
+    "strength": 1,
+    "agility": 1,
+    "intelligence": 6,
+    "stamina": 4,
+    "defense": 2,
+    "imagePathLH": "img/wizard.png",
+    "imagePathRH": "img/wizard-enemy.png",
+    "classBonus": {
+      "HPRestore": 0,
+      "MPRestore": 0,
+      "PDIncrease": 0,
+      "MDIncrease": 30,
+      "PDReduction": 0,
+      "MDReduction": 0
+    },
+    "firstSkill": {
+      "name": "Fireball",
+      "skillNumber": 1,
+      "manaCost": 30,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 200,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Frostbolt",
+      "skillNumber": 2,
+      "manaCost": 25,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 170,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  },
+  {
+    "name": "Donttarun",
+    "title": "Conqueror",
+    "mainParameter": "strength",
+    "class": "Warrior",
+    "level": 1,
+    "strength": 5,
+    "agility": 4,
+    "intelligence": 2,
+    "stamina": 5,
+    "defense": 2,
+    "imagePathLH": "img/warrior.png",
+    "imagePathRH": "img/warrior-enemy.png",
+    "classBonus": {
+      "HPRestore": 0,
+      "MPRestore": 0,
+      "PDIncrease": 0,
+      "MDIncrease": 0,
+      "PDReduction": 50,
+      "MDReduction": 0
+    },
+    "firstSkill": {
+      "name": "Titanium Beat",
+      "skillNumber": 1,
+      "manaCost": 25,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 200,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Battle Madness",
+      "skillNumber": 2,
+      "manaCost": 20,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 10,
+          "duration": 2
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  },
+  {
+    "name": "Henry",
+    "title": "Shine Of The Dawn",
+    "mainParameter": "intelligence",
+    "class": "Paladin",
+    "level": 1,
+    "strength": 4,
+    "agility": 2,
+    "intelligence": 4,
+    "stamina": 6,
+    "defense": 2,
+    "imagePathLH": "img/paladin.png",
+    "imagePathRH": "img/paladin-enemy.png",
+    "classBonus": {
+      "HPRestore": 10,
+      "MPRestore": 0,
+      "PDIncrease": 0,
+      "MDIncrease": 0,
+      "PDReduction": 0,
+      "MDReduction": 0
+    },
+    "firstSkill": {
+      "name": "Power Of Light",
+      "skillNumber": 1,
+      "manaCost": 40,
+      "HPRestoreScale": 150,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Thunder Hammer",
+      "skillNumber": 2,
+      "manaCost": 30,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 150,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  },
+  {
+    "name": "Silithor",
+    "title": "Devourer Of Souls",
+    "mainParameter": "intelligence",
+    "class": "Warlock",
+    "level": 1,
+    "strength": 1,
+    "agility": 2,
+    "intelligence": 6,
+    "stamina": 4,
+    "defense": 2,
+    "imagePathLH": "img/warlock.png",
+    "imagePathRH": "img/warlock-enemy.png",
+    "classBonus": {
+      "HPRestore": 0,
+      "MPRestore": 0,
+      "PDIncrease": 0,
+      "MDIncrease": 40,
+      "PDReduction": 0,
+      "MDReduction": 0
+    },
+    "firstSkill": {
+      "name": "Corruption",
+      "skillNumber": 1,
+      "manaCost": 40,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 0,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 50,
+        "duration": 3
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    },
+    "secondSkill": {
+      "name": "Shadow Bolt",
+      "skillNumber": 2,
+      "manaCost": 40,
+      "HPRestoreScale": 0,
+      "MPRestoreScale": 0,
+      "PDScale": 0,
+      "MDScale": 160,
+      "periodicPD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "periodicMD": {
+        "scale": 0,
+        "duration": 0
+      },
+      "PDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDIncrease": {
+        "value": 0,
+        "duration": 0
+      },
+      "PDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "MDReduction": {
+        "value": 0,
+        "duration": 0
+      },
+      "parametersIncrease": {
+        "strength": {
+          "value": 0,
+          "duration": 0
+        },
+        "agility": {
+          "value": 0,
+          "duration": 0
+        },
+        "intelligence": {
+          "value": 0,
+          "duration": 0
+        },
+        "stamina": {
+          "value": 0,
+          "duration": 0
+        },
+        "defense": {
+          "value": 0,
+          "duration": 0
+        }
+      }
+    }
+  }
+]

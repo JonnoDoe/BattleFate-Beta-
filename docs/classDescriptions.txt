@@ -1,0 +1,321 @@
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Варвар. Имя персонажа: Joanna. Титул: Disturber Of Rest. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса:
+    Варвары - невежественные, грубые, жестокие люди.
+    Хорошо владеют топорами. Предпочитают легкую броню, которая не затрудняет их движение в схватке с противником.
+    Поклоняются богу Тюру. Считают смерть в сражении, самой достойной смертью.
+    Предпочитают грабить, чем зарабатывать честным трудом.
+    Основной характеристикой Варвара является ловкость.
+
+Бонусы:
+    1) Когда здоровье опускается ниже 20% от максимального запаса, наносимый Варваром
+       физический урон увеличивается на 20%, а любой получаемый уменьшается на 30%
+
+Умения:
+    1) Жестокий удар
+            Варвар обрушивает на противника свой топор с невероятной силой, нанося ему урон
+            в размере 150% от показателя физической атаки. 
+            Расходует 15 очков маны.
+    2) Переполняющая ярость
+            Варвар дает волю своему гневу, отчего наносимый им физический урон повышается на 20% на три хода.
+            Расходует 20 очков маны.
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Варвар. Имя персонажа: Joanna. Титул: Disturber Of Rest. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class description:
+    Barbarians are ignorant, rude, cruel people.
+    They are good at axes. They prefer light armor, which does not hamper their movement in the battle with the enemy.
+    Worship the god Tyr. Consider death in battle, the most dignified death.
+    They prefer to rob, than to earn honest labor.
+    The main characteristic of a barbarian is agility.
+
+Bonuses:
+    1) When health falls below 20% of the maximum reserve, the physical damage dealt by the barbarian increases by 20%,
+       and the any resulting damage decreases by 30%
+
+Skills:
+    1) Brutal blow
+            Barbarian attacks his opponent with incredible force, inflicting damage on him
+            in the amount of 150% of the physical attack rate.
+            Spends 15 MP
+    2) Overflowing rage
+            Barbarian gives vent to his anger, causing physical damage he deals to increase by 20% for three turns.
+            Spends 20 MP
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Рыцарь Смерти. Имя персонажа: Earl. Титул: Breath Of Death. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса:
+    Рыцари смерти - служители повелительницы мира мертвых Хель.
+    Каждый Рыцарь Смерти проходит испытание веры, перед вступлением в клан.
+    Нескончаемые пытки плоти и души ждут тех, кто решит стать одним из фанатиков, но в конечном счете, вера
+    в госпожу их поглощает, и от прежнего человека не остается ни следа.
+    Рыцари Смерти предпочитают облачаться в тяжелую броню, а в качестве оружия использовать одноручный меч.
+    Основной характеристикой Рыцарей Смерти является сила.
+
+Бонусы:
+    1) Любой получаемый урон уменьшен на 5%
+
+Умения:
+    1) Поцелуй смерти
+            Рыцарь Смерти для последующего удара, призывает призрачную косу, делая ей широкий замах он
+            наносит урон в размере 130% от показателя физической атаки.
+            Расходует 15 очков маны.
+    2) Доспехи тьмы
+            Рыцаря Смерти окутывает тьма, снижая любой получаемый урон на 20% на два хода.
+            Расходует 25 очков маны.
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Рыцарь Смерти. Имя персонажа: Earl. Титул: Breath Of Death. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class description:
+    Death Knights are the ministers of the world's dead Hel.
+    Each Death Knight goes through a test of faith before joining the clan. Unending tortures of flesh
+    and soul are waiting for those who decide to become one of the fanatics, but in the final analysis, faith absorbs
+    them in the mistress, and there is not a trace left of the former man. Knights of Death prefer to dress in
+    heavy armor, and use one-handed sword as a weapon.
+    The main characteristic of the Knights of Death is strength.
+
+Bonuses:
+    1) Any taken damage is reduced by 5%
+
+Skills:
+    1) Kiss of death
+            Death Knight for the subsequent strike, calls the ghostly spit, making her wide swing he
+            damage of 130% of the physical attack rate.
+            Spends 15 MP
+    2) Armor of darkness
+            Death knight is enveloped in darkness, reducing any damage taken by 20% for 2 turns.
+            Spends 25 MP
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Маг. Имя персонажа: Holly. Титул: Lady Of The Elements. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса:
+    Маги обучаются в школах волшебства с самого детства, поклоняются Браги. 
+    Лишь немногим удается приручить стихии холода и огня.
+    Схватка с искусным волшебником - не простая задача. Маги предпочитают носить тканевые робы, а вооружаться посохом.
+    Основной характеристикой Мага является интеллект.
+    
+Бонусы:
+    1) Если маг использует заклинание одной стихии в течении трех ходов, то на третий ход оно нанесет
+       на 100% больше магического урона.
+    
+Умения:
+    1) Огненный шар
+            Маг призывает огненный шар, наносящий урон равный 150% от показателя магической атаки, а так же
+            30% урона от показателя магической атаки каждый ход, в течении двух ходов, от поджога.
+            Расходует 30 очков маны.
+    2) Ледяная стрела
+            Маг призывает ледяную стрелу, которая наносит урон равный 170% от показателя атаки.
+            Расходует 25 очков маны.
+
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Маг. Имя персонажа: Holly. Титул: Lady Of The Elements. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class Description:
+    Wizards have been taught in schools of magic since childhood, worshiping Bragi.
+    Only a few manage to tame the elements of cold and fire.
+    A fight with a skilled wizard is not an easy task. Wizards prefer to wear fabric robes, and arm themselves with a staff.
+    The main characteristic of the Wizard is intelligence.
+    
+Bonuses:
+    1) If the Wizard uses a spell of one element within three moves, then on the third turn, it will deal 100% more magic damage.
+    
+Skills:
+    1) Fireball
+            Wizard summons a fireball that deals damage equal to 150% of the magic attack rate, and
+            30% damage from the magic attack rate each turn, in two moves, from arson.
+            Spends 30 MP
+    2) Frostbolt
+            Wizard calls for an frostbolt that deals damage equal to 150% of the magic attack rate.
+            Spends 25 MP
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Воин. Имя персонажа: Donttarun. Титул: Conqueror. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса:
+    Воины превосходно владеют оружием. На поле битвы они не знают, что такое страх.
+    В любой схватке, они всегда идут в авангарде, вооруженные щитом и мечом.
+    Свое предпочтение они отдают любому оружию, которым можно искромсать противника.
+    Поклоняются Одину, как богу войны и победы.
+    Основной характеристикой Воинов является сила.
+
+Бонусы:
+    1) Весь получаемый физический урон уменьшен на 10%
+    
+Умения:
+    1) Удар титана
+            Воин вкладывает в свой удар всю свою силу, нанося урон равный 200% от показателя физической атаки.
+            Расходует 25 очков маны.
+    2) Боевое безумие
+            Воин впадает в безумие, после чего его сила увеличивается на 10, в течении двух ходов.
+            Расходует 20 очков маны.
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Воин. Имя персонажа: Donttarun. Титул: Conqueror. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class Description:
+    Warriors excellently own weapons. On the battlefield, they do not know what fear is.
+    In any fight, they always go in the forefront, armed with a shield and a sword.
+    Their preference is given to any weapon that can be used to destroy the enemy.
+    They worship Odin as the god of war and victory.
+    The main characteristic of the Warriors is strength.
+
+Bonuses:
+    1) All physical damage taken is reduced by 10%
+    
+Skills:
+    1) Titanium Beat
+            Warrior puts all his strength into his blow, dealing damage equal to 200% of the physical attack rate.
+            Spends 25 MP
+    2) Battle Madness
+            Warrior falls into insanity, after which his strength increases by 10, within two moves.
+            Spends 20 MP
+            
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Паладин. Имя персонажа: Henry. Титул: Shine Of The Dawn. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса: 
+    Служители света, они расправляются с любым проявления зла.
+    Паладины верят в бога правосудия Форсети.
+    Вооружены щитом и молотом, что нередко спасает им жизнь.
+    Основной характеристикой Паладинов является интеллект.
+
+Бонусы:
+    1) В начале каждого хода, Паладин восстанавливает себе 5 очков здоровья
+    
+Умения:
+    1) Сила света
+            Паладин взывает к высшим силам, обрушивая на себя столп света, восстанавливающий ему здоровье, 
+            равное 150% от показателя магической атаки.
+            Расходует 40 очков маны.
+    2) Громовой молот
+            Паладин призывает с неба молот, который обрушивается на противника и наносит урон равный
+            150% от показателя магической атаки.
+            Расходует 30 очков маны.
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Паладин. Имя персонажа: Henry. Титул: Shine Of The Dawn. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class Description:
+    Servants of light, they are straightened out with any manifestation of evil.
+    Paladins believe in the god of justice Forseti.
+    Armed with shield and hammer, which often saves their lives.
+    The main characteristic of Paladins is intelligence.
+
+Bonuses:
+    1) At the beginning of each turn, the Paladin regains 5 HP
+    
+Skills:
+    1) Power of light
+            Paladin appeals to the higher forces, bringing down a pillar of light, restoring his health,
+            equal to 150% of the magic attack rate.
+            Spends 40 MP
+    2) Thunder Hammer
+            Paladin summons a hammer from the sky that hits the enemy and does damage equal
+            150% of the magic attack rate.
+            Spends 30 MP
+            
+            
+            
+            
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Чернокнижник. Имя персонажа: Silithor. Титул: Devourer Of Souls. [RUS]
+------------------------------------------------------------------------------------------------------------------------
+
+Описание класса:
+    Чернокнижки - люди, которые отдали свою душу тьме. Они проклинают противника всевозможными болезнями,
+    разлогающими противника как физически, так и психически.
+    Культ Чернокнижников не признает ни одного из богов.
+    Основной характеристикой Чернокнижников является интеллект.
+    
+Бонусы:
+    1) Если Чернокнижник использует подряд два заклинания, наносящих переодический магический урон, то магический урон
+       Чернокжника увеличивается на 100% на два хода.
+       
+Умения:
+    1) Порча
+            Чернокнижник насылает на врага порчу, нанося ему 50% урона от 
+            показателя магической атаки каждый ход, в течении трех ходов.
+            Расходует 40 очков маны.
+    2) Смертельный приговор
+            Чернокнижник пронизывает душу противника тьмой, нанося ему 50% урона от
+            показателя магической атаки каждый ход, в течении трех ходов.
+            Расходует 40 очков маны.
+    
+
+------------------------------------------------------------------------------------------------------------------------
+Описание класса Чернокнижник. Имя персонажа: Silithor. Титул: Devourer Of Souls. [ENG]
+------------------------------------------------------------------------------------------------------------------------
+
+Class Description:
+    Warlocks are people who have given their soul to darkness. They cursed the enemy with all sorts of diseases,
+    spreading the enemy both physically and mentally.
+    The Cult of Warlocks does not recognize any of the gods.
+    The main characteristic of Warlocks is intelligence.
+    
+Bonuses:
+    1) If two spells are cast on the enemy simultaneously, inflicting periodic magical damage, then
+       magical damage of the warlock is increased by 100% for two turns.
+       
+Skills:
+    1) Corruption
+            Warlock deals damage to the enemy, dealing 50%
+            of the magic attack rate each turn, within three turns.
+            Spends 40 MP
+    2) Death sentence
+            Warlock penetrates the enemy's soul with darkness, inflicting 50%
+            of the magic attack rate each turn, within three turns.
+            Spends 40 MP

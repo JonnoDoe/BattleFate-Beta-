@@ -1,0 +1,415 @@
+@font-face {
+  font-family: 'DeterminationRUSBYLYAJKA';
+  src: url('../fonts/Determination/DeterminationRUSBYLYAJKA.eot?#iefix') format('embedded-opentype'), url('../fonts/Determination/DeterminationRUSBYLYAJKA.woff') format('woff'), url('../fonts/Determination/DeterminationRUSBYLYAJKA.ttf') format('truetype'), url('../fonts/Determination/DeterminationRUSBYLYAJKA.svg#DeterminationRUSBYLYAJKA') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  padding-top: 50px;
+  background: url('../img/animated-background.jpg');
+  background-size: cover;
+  font-family: 'DeterminationRUSBYLYAJKA', sans-serif;
+  font-size: 30px;
+  color: #cfe0ee;
+  -moz-user-select: none;
+  user-select: none;
+}
+.btn {
+  margin: 100px auto;
+  width: 300px;
+  padding: 10px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  font-family: 'DeterminationRUSBYLYAJKA', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: #cfe0ee;
+  text-transform: uppercase;
+  outline: none;
+  background-color: inherit;
+}
+.btn:hover {
+  background-color: #ffffff14;
+  cursor: pointer;
+}
+.btn:active {
+  background-color: rgba(0, 0, 0, 0.32);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p.title,
+li {
+  text-transform: uppercase;
+}
+.hide {
+  display: none;
+}
+.selected {
+  background-color: rgba(0, 0, 0, 0.32);
+}
+main {
+  width: 1890px;
+  margin: 0 auto;
+}
+main .menu {
+  display: inline-block;
+  width: 30%;
+}
+main .menu .menu-content {
+  width: 300px;
+  padding: 50px 0;
+  margin: 0 auto;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+}
+main .menu .menu-content h2 {
+  margin-bottom: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+}
+main .menu .menu-content ul {
+  width: 300px;
+  text-align: center;
+}
+main .menu .menu-content ul li {
+  margin: 30px 0;
+}
+main .menu .menu-content ul li:hover {
+  cursor: pointer;
+  color: #ff0006;
+}
+main section.greet {
+  display: inline-block;
+  width: 50%;
+}
+main section.greet h1 {
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 10px;
+  line-height: 100px;
+}
+main section.greet h1 .game-name {
+  font-size: 100px;
+}
+main section.greet h1 .game-name:hover {
+  cursor: pointer;
+  color: #ff0006;
+}
+section.list-of-heroes div {
+  display: inline-block;
+  width: 830px;
+  height: 530px;
+  margin-left: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 50px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  text-align: center;
+}
+section.list-of-heroes div:nth-child(1),
+section.list-of-heroes div:nth-child(3),
+section.list-of-heroes div:nth-child(5) {
+  margin-left: 90px;
+}
+section.list-of-heroes div:hover {
+  cursor: pointer;
+  background-color: #00000085;
+}
+section.list-of-heroes div h3 {
+  margin: 10px 0;
+  font-size: 40px;
+}
+section.list-of-heroes div p {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+section.list-of-heroes div table {
+  display: inline-block;
+  text-transform: capitalize;
+}
+section.list-of-heroes div table:last-child {
+  margin-left: 50px;
+  vertical-align: top;
+}
+section.list-of-heroes div table tr td {
+  width: 300px;
+  padding: 3px;
+}
+section.list-of-heroes div table tr td:first-child {
+  text-align: left;
+  width: 235px;
+}
+section.list-of-heroes div table tr td:last-child {
+  text-align: right;
+  width: 50px;
+}
+section.description h1 {
+  margin: 50px 0;
+  font-size: 100px;
+  text-align: center;
+}
+section.description h1:hover {
+  cursor: pointer;
+  color: #ff0006;
+}
+section.description .description-text {
+  display: block;
+  width: 1000px;
+  padding: 50px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.32);
+  text-align: center;
+  font-size: 25px;
+}
+section.character-info {
+  text-align: center;
+}
+section.character-info .mana-costs {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+section.character-info .description-column {
+  display: inline-block;
+  width: 45%;
+  height: 600px;
+  padding: 20px;
+  margin-right: 50px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  background-color: #00000085;
+}
+section.character-info .description-column h3 {
+  margin: 10px 0;
+  font-size: 40px;
+}
+section.character-info .description-column .title {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+section.character-info .description-column h1 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+section.character-info .description-column p {
+  font-size: 25px;
+  line-height: 30px;
+}
+section.character-info .features-column {
+  display: inline-block;
+  width: 45%;
+  vertical-align: top;
+}
+section.character-info .features-column > div {
+  padding: 20px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  background-color: #00000085;
+}
+section.character-info .features-column > div:first-child {
+  margin-bottom: 50px;
+}
+section.character-info .features-column > div h2 {
+  font-size: 40px;
+  letter-spacing: 5px;
+  margin-bottom: 20px;
+}
+section.character-info .features-column > div p {
+  font-size: 25px;
+}
+section.character-info .class-skills .skill {
+  margin-bottom: 30px;
+}
+section.character-info .class-skills .skill:first-child {
+  padding-bottom: 30px;
+  border-bottom: 2px dashed #cfe0ee;
+}
+section.character-info .class-skills .skill h3 {
+  margin-bottom: 10px;
+  font-size: 35px;
+  letter-spacing: 5px;
+}
+section.character-info .class-skills .skill p {
+  font-size: 25px;
+  line-height: 30px;
+}
+section.hero-select {
+  text-align: center;
+}
+section.hero-select h1 {
+  margin-bottom: 40px;
+  font-size: 60px;
+}
+section.hero-select div {
+  display: inline-block;
+  width: 260px;
+  height: 350px;
+  padding: 30px;
+  margin-left: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  vertical-align: top;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  text-transform: capitalize;
+}
+section.hero-select div:nth-child(1) {
+  margin-left: 0;
+}
+section.hero-select div:hover {
+  cursor: pointer;
+  background-color: #ffffff14;
+}
+section.hero-select div:active {
+  background-color: rgba(0, 0, 0, 0.32);
+}
+section.hero-select div h3 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+section.hero-select div p {
+  font-size: 20px;
+}
+section.hero-select p#accept {
+  margin: 100px auto;
+  width: 300px;
+  padding: 10px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  font-family: 'DeterminationRUSBYLYAJKA', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: #cfe0ee;
+  text-transform: uppercase;
+  outline: none;
+  background-color: inherit;
+}
+section.hero-select p#accept:hover {
+  background-color: #ffffff14;
+  cursor: pointer;
+}
+section.hero-select p#accept:active {
+  background-color: rgba(0, 0, 0, 0.32);
+}
+section.hero-select p#warning {
+  font-size: 25px;
+  line-height: 40px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+section.arena {
+  text-align: center;
+}
+section.arena #console {
+  width: 760px;
+  height: 375px;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: -40px;
+  margin-bottom: 20px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.32);
+  font-size: 15px;
+  letter-spacing: 3px;
+  text-align: left;
+  text-transform: uppercase;
+}
+section.arena div.battle-field div.left-hero {
+  margin-right: 40%;
+}
+section.arena div.battle-field div.character-bar {
+  display: inline-block;
+}
+section.arena div.battle-field div.character-bar div.character-info {
+  width: 240px;
+  height: 240px;
+  padding: 25px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+section.arena div.battle-field div.character-bar div.character-info h3 {
+  margin: 20px 0;
+  font-size: 35px;
+}
+section.arena div.battle-field div.character-bar div.character-info p {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+section.arena div.battle-field div.left-hero-bar div.status-item {
+  width: 400px;
+  height: 62px;
+  margin: 10px auto;
+  border: 2px dashed #cfe0ee;
+  border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
+}
+section.arena div.battle-field div.left-hero-bar div.status-item img {
+  display: inline-block;
+  border-right: 2px dashed #cfe0ee;
+  float: left;
+}
+section.arena div.battle-field div.left-hero-bar div.status-item div.static-bar {
+  display: inline-block;
+  width: 75%;
+  padding: 15px;
+}
+section.arena div.battle-field div.right-hero-bar div.status-item {
+  width: 400px;
+  height: 62px;
+  margin: 10px auto;
+  border: 2px dashed #cfe0ee;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+}
+section.arena div.battle-field div.right-hero-bar div.status-item img {
+  display: inline-block;
+  border-left: 2px dashed #cfe0ee;
+  float: right;
+}
+section.arena div.battle-field div.right-hero-bar div.status-item div.static-bar {
+  display: inline-block;
+  width: 75%;
+  padding: 15px;
+}
+section.arena div.battle-field div.action-bar div {
+  display: inline-block;
+}
+section.arena div.battle-field div.action-bar div img {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 5px;
+  border: 2px dashed #cfe0ee;
+  border-radius: 50%;
+}
+section.arena div.battle-field div.action-bar div img:hover {
+  cursor: pointer;
+  background-color: #ffffff14;
+}
+section.arena div.battle-field div.action-bar div img:active {
+  background-color: rgba(0, 0, 0, 0.32);
+}
+section.arena div.battle-field div.action-bar div img:last-child {
+  margin-right: 0;
+}
+section.arena div.battle-field div.action-bar div p {
+  font-size: 15px;
+  text-transform: uppercase;
+}
